@@ -17,4 +17,7 @@ https://www.youtube.com/watch?v=2AKJzc-cSj8&list=PLeo1K3hjS3uv5U-Lmlnucd7gqF-3eh
 
 https://www.youtube.com/watch?v=6XWeeEg6d3s&list=PLeo1K3hjS3uv5U-Lmlnucd7gqF-3ehIh0&index=19 -> Done
 --> Class and Object
+
+https://www.youtube.com/watch?v=8tCe1P_cgoY&list=PLeo1K3hjS3uv5U-Lmlnucd7gqF-3ehIh0&index=3 --> Done
+Variables
 ==========================================================
