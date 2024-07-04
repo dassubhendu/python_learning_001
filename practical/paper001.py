@@ -154,3 +154,12 @@ Q13:
 Find duplicate items in a list
 list1 = ["this", "is", "very", "good", "and", "this", "are", "also", "good"]
 """
+list1 = ["this", "is", "very", "good", "and", "this", "are", "also", "good"]
+repStr = []
+for i in range(len(list1)):
+    k = i + 1
+    for j in range(k, len(list1)):
+        if list1[i] == list1[j] and list1[i] not in repStr:
+            repStr.append(list1[i])
+print(repStr)
+
