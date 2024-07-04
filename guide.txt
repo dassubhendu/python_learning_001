@@ -1,0 +1,20 @@
+Practical:
+==========================================================================================================
+https://www.youtube.com/watch?v=bADFZ7AjQAA&list=PLI4OVrCFuY5725OhoRi-G2YwnjKXh7v0F&index=1 --> 1
+https://www.youtube.com/watch?v=dcWZVaHS-IY&list=PLI4OVrCFuY5725OhoRi-G2YwnjKXh7v0F&index=2 --> 2
+https://www.youtube.com/watch?v=-0D_MCRLIAE&list=PLI4OVrCFuY5725OhoRi-G2YwnjKXh7v0F&index=3 --> 3
+https://www.youtube.com/watch?v=ZOUYCnCPiX8&list=PLI4OVrCFuY5725OhoRi-G2YwnjKXh7v0F&index=117 --> 117
+https://www.youtube.com/watch?v=bf5dNJg4gMo&list=PLI4OVrCFuY5725OhoRi-G2YwnjKXh7v0F&index=115 --> 115
+[Pending] -> https://www.youtube.com/watch?v=TLmx2p2A90k&list=PLI4OVrCFuY5725OhoRi-G2YwnjKXh7v0F&index=114 --> Steps to find complement
+https://www.youtube.com/watch?v=l6q4SEBOxYk&list=PLI4OVrCFuY5725OhoRi-G2YwnjKXh7v0F&index=113 --> 113
+==========================================================================================================
+
+
+Theory:
+==========================================================
+https://www.youtube.com/watch?v=2AKJzc-cSj8&list=PLeo1K3hjS3uv5U-Lmlnucd7gqF-3ehIh0&index=17 -> Done
+--> __name__ = "__main__"
+
+https://www.youtube.com/watch?v=6XWeeEg6d3s&list=PLeo1K3hjS3uv5U-Lmlnucd7gqF-3ehIh0&index=19 -> Done
+--> Class and Object
+==========================================================
