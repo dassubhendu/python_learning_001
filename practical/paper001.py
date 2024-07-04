@@ -181,9 +181,50 @@ listData = ['india', 'is', 'my', 'country']
 
 """
 Q15:
-Count the duplicate character and with a particular count of occurrence in a string
+Count the duplicate character and with a particular count of occurrence in a string. Let say char appears 3 times
 strExample = "thisistest"
 """
+# strExample = "thisistest"
+# dupList = []
+# for char in strExample:
+#     if strExample.count(char) == 3 and char not in dupList:
+#         dupList.append(char)
+# print(dupList)  
+# print(*dupList)  
+# print(','.join(dupList))   
 
 
+"""
+Q16:
+Reverse words in a sentence.
+input: "This is my school"
+output: ""
+"""
+# str1 = "This is my school"
+# strList1 = str1.split(' ')
+# print(strList1)
+# revStrList1 = strList1[::-1]
+# print(revStrList1)
+# print(' '.join(revStrList1))
 
+"""
+Q17:
+Reverse a string without any inbuild methods.
+str1 = "thisisschool"
+"""
+# str1 = "thisisschool"
+# revStr1 = str1[::-1]
+# print(revStr1)
+# ==========================
+# str1 = "thisisschool"
+# reversed_str = ""
+# for i in range(1, len(str1) + 1):
+#     reversed_str += str1[-i]
+# print(reversed_str)    
+
+
+"""
+Q18:
+mystr = "a,a,a,b,b,c,c,c"
+result: a:3, b:2, c:3
+"""
