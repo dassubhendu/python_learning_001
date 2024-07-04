@@ -148,3 +148,9 @@ list1 = [8, 2, 45, 9, 23, 32]
 # list1.sort()
 # print(list1)
 # print("Second largest number: ", list1[-2])
+
+"""
+Q13:
+Find duplicate items in a list
+list1 = ["this", "is", "very", "good", "and", "this", "are", "also", "good"]
+"""

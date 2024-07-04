@@ -18,7 +18,7 @@
 # print(listNumStr)
 
 # =============================================================
-""" Count the duplicate words and with a paerticular count of occurrence  """
+""" Count the duplicate words and with a particular count of occurrence  """
 # strExample = "thisistest"
 #
 # duplicates = []
