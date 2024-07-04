@@ -151,15 +151,39 @@ list1 = [8, 2, 45, 9, 23, 32]
 
 """
 Q13:
-Find duplicate items in a list
+Find duplicate items/words/integer in a list
 list1 = ["this", "is", "very", "good", "and", "this", "are", "also", "good"]
 """
-list1 = ["this", "is", "very", "good", "and", "this", "are", "also", "good"]
-repStr = []
-for i in range(len(list1)):
-    k = i + 1
-    for j in range(k, len(list1)):
-        if list1[i] == list1[j] and list1[i] not in repStr:
-            repStr.append(list1[i])
-print(repStr)
+# list1 = ["this", "is", "very", "good", "and", "this", "are", "also", "good"]
+# dupWordList = []
+# for i in range(len(list1)):
+#     k = i + 1
+#     for j in range(k, len(list1)):
+#         if list1[i] == list1[j] and list1[i] not in dupWordList:
+#             dupWordList.append(list1[i])
+# print(dupWordList)       
+
+"""
+Q14:
+Write a python program to get the duplicate characters in a list.
+listData = ['india', 'is', 'my', 'country']
+"""     
+# listData = ['india', 'is', 'my', 'country']
+# dupCharList = []
+# strListData = ''.join(listData)
+# print(strListData)
+# for char in strListData:
+#     if strListData.count(char) > 1 and char not in dupCharList:
+#         dupCharList.append(char)
+# print(dupCharList)  
+# print(*dupCharList)    
+# print(','.join(dupCharList))  
+
+"""
+Q15:
+Count the duplicate character and with a particular count of occurrence in a string
+strExample = "thisistest"
+"""
+
+
 
