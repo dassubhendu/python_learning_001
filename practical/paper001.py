@@ -167,7 +167,7 @@ list1 = ["this", "is", "very", "good", "and", "this", "are", "also", "good"]
 Q14:
 Write a python program to get the duplicate characters in a list.
 listData = ['india', 'is', 'my', 'country']
-"""     
+"""
 # listData = ['india', 'is', 'my', 'country']
 # dupCharList = []
 # strListData = ''.join(listData)
@@ -225,6 +225,87 @@ str1 = "thisisschool"
 
 """
 Q18:
-mystr = "a,a,a,b,b,c,c,c"
+myStr1 = "a,a,a,b,b,c,c,c"
 result: a:3, b:2, c:3
 """
+# myStr = "a,a,a,b,b,c,c,c"
+# visited = []
+# listMyStr = myStr.split(",")
+# print(listMyStr)
+# for char in listMyStr:
+#     if char not in visited:
+#         print(f"{char}:{listMyStr.count(char)}", end=",")
+#         visited.append(char)
+
+"""
+Q19:
+input: "sky is blue"
+output: "blue is sky"
+"""
+# str1 = "sky is blue"
+# listStr1 = str1.split(' ')
+# print(listStr1)
+# revListStr1 = listStr1[::-1]
+# print(revListStr1)
+# revWordStr = ' '.join(revListStr1)
+# print(revWordStr)
+
+"""
+Q20:
+list1 = [1,2,2,3,3,4,5,5,5,6,6]
+output = [1, 4]
+"""
+# list1 = [1, 2, 2, 3, 3, 4, 5, 5, 5, 6, 6]
+# uniqueList = []
+# for num in list1:
+#     if list1.count(num) == 1 and num not in uniqueList:
+#         uniqueList.append(num)
+# print(uniqueList)
+
+"""
+Q21:
+Find max and min number in a list
+listNum = ['34', '23', '8', '64', '76', '2']
+"""
+# list = [34, 23, 8, 64, 76, 2]
+# max = list[0]
+# min = list[0]
+# for num in list:
+#     if num < min:
+#         min = num
+#     if num > max:
+#         max = num
+# print("The min number: " + str(min))
+# print("The max number: " + str(max))
+
+"""
+Q22:
+Get a list of square of even numbers in another list with list comprehension
+list1 = [5, 2, 6, 4, 7, 8]
+"""
+# list1 = [5, 2, 6, 4, 7, 8]
+# print([num * num for num in list1 if num % 2 == 0])
+
+""" 
+Q23:
+Objective: Get duplicate words in list
+list1 = ["he", "is", "my", "friend", "and", "he", "is", "good"]
+"""
+# list1 = ["he", "is", "my", "friend", "and", "he", "is", "good"]
+# dupWord = []
+# for i in range(len(list1)):
+#     k = i + 1
+#     for j in range(k, len(list1)):
+#         if list1[i] == list1[j] and list1[i] not in dupWord:
+#             dupWord.append(list1[i])
+# print(dupWord)
+
+
+
+
+
+
+
+
+
+
